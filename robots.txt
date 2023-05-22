@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://daftartogelsdy.github.io/jhy-2/sitemap.xml
